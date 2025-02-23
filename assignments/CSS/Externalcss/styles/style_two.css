@@ -1,0 +1,14 @@
+h2#id2 {
+    font-family: cursive;
+    color: blue;
+}
+
+p#id3 {
+    animation: reverse;
+    background-color: black;
+    color: white;
+}
+
+h1#id4 {
+    color: red;
+}
