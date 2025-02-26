@@ -1,0 +1,13 @@
+
+body {
+    background-image: url('images/nature.jpg');
+    background-size: cover;
+    
+}
+header {background-color: rgba(255, 0, 0, 0.429); color: black;
+background: linear-gradient(to right, rgba(95, 60, 60, 0.251), rgba(255,0,0,1));  }
+
+#nature {font-size: x-large; background-color: rgba(225, 241, 203, 0.641); opacity: 0.9; background: linear-gradient(90deg, rgba(231,246,168,0.6811974789915967) 19%, rgba(242,235,155,0.46271008403361347) 58%, rgba(242,235,155,0.6111694677871149) 93%);} 
+#flower {font-size: x-large; background-color: rgba(119, 196, 170, 0.515); background: linear-gradient(90deg, rgba(0,36,35,1) 0%, rgba(0,212,255,0.46271008403361347) 38%);}
+
+
