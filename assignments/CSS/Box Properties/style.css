@@ -1,0 +1,28 @@
+p {
+    background-color: rgb(181, 149, 110);
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+    width: 1000px;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 300px;
+    border: 2px solid rgb(193, 15, 15);
+
+}
+
+img:hover {
+    margin: 5px;
+    padding: 5px;
+    width: 310px;
+    border: 2px dotted rgb(30, 30, 153);
+    cursor: pointer;
+}
+body {background-color: rgba(137, 135, 132, 0.919);}

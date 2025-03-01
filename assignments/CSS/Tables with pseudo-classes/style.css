@@ -1,0 +1,5 @@
+
+th {font-weight: 900; font-size: x-large;}
+tr:nth-child(odd) {background-color: rgba(57, 129, 129, 0.744); color: black;}
+tr:nth-child(even) {background-color: rgba(53, 78, 130, 0.803); color: black;}
+table {border: solid black;}
