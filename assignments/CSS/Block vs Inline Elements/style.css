@@ -1,0 +1,13 @@
+body {
+    width: 50%;
+}
+
+h1 {
+    display: inline;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+p {
+    display: inline;
+}

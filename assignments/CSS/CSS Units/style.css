@@ -1,0 +1,42 @@
+#william {
+    background-color: rgb(180, 177, 177);
+    border: 2px solid grey;
+    width: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    padding: 10px;
+}
+
+#elliott {
+    background-color: rgb(244, 240, 240);
+    border: 2px solid grey;
+    width: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    padding: 10px;
+}
+
+#fyodor {
+    background-color: rgb(180, 177, 177);
+    border: 2px solid grey;
+    width: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    padding: 10px;
+}
+
+#lamar {
+    background-color: rgb(244, 240, 240);
+    border: 2px solid grey;
+    width: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    padding: 10px;
+}
+
+hr {
+    width: 30%;
+    align-items: center;
+    height: 3px;
+    background-color: rgb(122, 46, 46);
+}
