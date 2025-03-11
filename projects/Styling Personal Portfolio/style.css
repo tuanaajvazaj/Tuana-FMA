@@ -1,0 +1,414 @@
+body {
+    margin: 1px 10% 0 10%;
+    background-color: rgba(167, 101, 78, 0.908);
+}
+
+#portfolio {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.nav {
+    text-align: center;
+}
+
+#projects {
+    display: inline;
+    background-color: bisque;
+    border: 2px solid rgb(232, 204, 171);
+    padding: 9px;
+    margin: 3px 30px 3px 3px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+    color: black;
+}
+
+#contact {
+    display: inline;
+    background-color: bisque;
+    border: 2px solid rgb(232, 204, 171);
+    padding: 9px;
+    margin: 3px 30px 3px 3px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+    color: black;
+}
+
+#projects:hover {
+    background-color: rgb(195, 166, 131);
+    border: 2px solid rgb(125, 124, 124);
+}
+
+#contact:hover {
+    background-color: rgb(195, 166, 131);
+    border: 2px solid grey;
+}
+
+.me {
+    background-color: blanchedalmond;
+    border: 2px solid rgb(216, 200, 175);
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+#name {
+    text-align: left;
+}
+
+#tuana {
+    font-weight: 300;
+    font-size: xx-large;
+}
+
+.me:hover {
+    background-color: white;
+    border: 2px solid rgb(252, 239, 210);
+}
+
+
+
+#pfp {
+    border: 2px solid rgb(117, 115, 115);
+}
+
+#pfp:hover {
+    border: 2px solid rgb(84, 84, 84);
+    margin: 2px;
+}
+
+.education {
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    border: 2px solid rgb(216, 200, 175);
+
+    h1 {
+        font-size: x-large;
+    }
+}
+
+#primary {
+    border: 2px solid rgb(205, 179, 138);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#high {
+    border: 2px solid rgb(205, 179, 138);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.education:hover {
+    background-color: white;
+    border: 2px solid rgb(205, 179, 138);
+}
+
+.skills {
+    background-color: blanchedalmond;
+    padding: 28px;
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    border: 2px solid rgb(216, 200, 175);
+    font-size: larger
+}
+
+#rate {
+    background-color: rgb(249, 230, 235);
+    margin: 3px;
+    ;
+
+    th {
+        background-color: rgb(249, 214, 217);
+        padding: 3px;
+    }
+
+}
+
+.skills:hover {
+    background-color: white;
+    border: 2px solid rgb(205, 179, 138);
+}
+
+.project {
+    background-color: blanchedalmond;
+    padding: 28px;
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    border: 2px solid rgb(216, 200, 175);
+    font-size: larger;
+}
+
+.project:hover {
+    background-color: white;
+    border: 2px solid rgb(205, 179, 138);
+}
+
+#cel {
+    background-color: rgb(198, 141, 152);
+    border: 2px solid rgb(205, 179, 138);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#three {
+    background-color: rgb(198, 141, 152);
+    border: 2px solid rgb(205, 179, 138);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#log {
+    background-color: rgb(198, 141, 152);
+    border: 2px solid rgb(205, 179, 138);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.last {
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    border: 2px solid rgb(216, 200, 175);
+
+}
+
+.eminem {
+    background-color: rgb(62, 99, 97);
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+.eminem:hover {
+    background-color: rgb(47, 62, 62);
+    border: 2px solid black;
+}
+
+#im {
+    border: 2px solid black;
+    margin: 6px;
+}
+
+#em {
+    border: 2px solid black;
+    margin: 6px;
+}
+
+#am {
+    border: 2px solid black;
+    margin: 7px;
+}
+
+.number {
+    background-color: white;
+}
+
+#my {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#lili {
+    display: inline;
+    background-color: rgb(131, 124, 117);
+    border: 2px solid rgb(76, 74, 72);
+    padding: 9px;
+    margin: 3px 30px 3px 3px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+    color: black;
+}
+
+#liil {
+    display: inline;
+    background-color: rgb(131, 124, 117);
+    border: 2px solid rgb(76, 74, 72);
+    padding: 9px;
+    margin: 3px 30px 3px 3px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+    color: black;
+}
+
+.pro2 {
+    background-color: rgb(62, 99, 97);
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+#om {
+    border: 2px solid black;
+    margin: 7px;
+}
+
+#fig {
+    border: 2px solid rgb(47, 47, 47);
+}
+
+.pro2:hover {
+    background-color: rgb(47, 62, 62);
+    border: 2px solid black;
+
+}
+
+.register {
+    background-color: rgb(62, 99, 97);
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    font-size: larger;
+}
+
+.register:hover {
+    background-color: rgb(47, 62, 62);
+    border: 2px solid black;
+}
+
+#um {
+    border: 2px solid black;
+    margin: 7px;
+}
+
+#ym {
+    border: 2px solid black;
+    margin: 7px;
+}
+
+.foot {
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    background-color: rgb(62, 99, 97);
+    border: 2px solid rgb(23, 22, 22);
+}
+
+.third {
+    background-color: rgb(47, 52, 37);
+}
+
+#index {
+    display: inline;
+    background-color: rgb(157, 178, 145);
+    border: 2px solid rgb(50, 65, 31);
+    padding: 9px;
+    margin: 3px 30px 3px 3px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+    color: black;
+}
+
+#index:hover {
+    background-color: rgb(99, 112, 74);
+}
+
+.mess {
+    padding: 20px;
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    font-size: larger;
+    background-color: rgb(220, 240, 183);
+}
+
+.mess:hover {
+    background-color: rgb(152, 168, 120);
+    border: 2px solid rgb(26, 31, 18);
+}
+
+#send {
+    border: 2px solid rgb(66, 70, 59);
+    padding: 3px;
+    margin: 10px 850px 10px 10px;
+}
+
+#from {
+    border: 2px solid rgb(66, 70, 59);
+    padding: 5px;
+    margin: 10px;
+}
+
+#buton {
+    background-color: rgb(148, 169, 115);
+    font-size: large;
+    padding: 3px;
+    margin: 2px;
+}
+
+.social {
+    padding: 20px;
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    font-size: larger;
+    background-color: rgb(220, 240, 183);
+}
+
+.social:hover {
+    background-color: rgb(152, 168, 120);
+    border: 2px solid rgb(26, 31, 18);
+}
+
+#connect {
+    border: 2px solid rgb(66, 70, 59);
+    padding: 3px;
+    margin: 10px 888px 10px 10px;
+}
+
+#insta {
+    padding: 3px;
+    margin: 10px 888px 10px 10px;
+}
+
+#rights {
+    padding: 20px;
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    background-color: rgb(220, 240, 183);
+}
