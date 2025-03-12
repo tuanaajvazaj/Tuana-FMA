@@ -199,7 +199,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 15px;
     border: 2px solid rgb(216, 200, 175);
-
+    text-align: center;
 }
 
 .eminem {
@@ -267,6 +267,14 @@ body {
     color: black;
 }
 
+#lili:hover {
+    background-color: rgb(74, 73, 73);
+}
+
+#liil:hover {
+    background-color: rgb(74, 73, 73);
+}
+
 .pro2 {
     background-color: rgb(62, 99, 97);
     padding: 20px;
@@ -324,6 +332,7 @@ body {
     border-radius: 15px;
     background-color: rgb(62, 99, 97);
     border: 2px solid rgb(23, 22, 22);
+    text-align: center;
 }
 
 .third {
@@ -411,4 +420,5 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 15px;
     background-color: rgb(220, 240, 183);
+    text-align: center;
 }
